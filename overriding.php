@@ -67,5 +67,6 @@ $anggota2 = new anggotaAktif('Windi', 'Bandung', 'Perempuan',350000);
 
 echo $anggota1->identitasLengkap();
 echo '<br>';
+echo '<br>';
 echo $anggota2->identitasLengkap();
 
